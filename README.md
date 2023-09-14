@@ -1,1 +1,1 @@
-# ecr_auto_deploy
+Checking ECR auto deploy
